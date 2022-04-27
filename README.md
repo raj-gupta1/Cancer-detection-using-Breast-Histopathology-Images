@@ -21,7 +21,7 @@ Visual Geometry Group, Department of Engineering Science, University of Oxford {
   <h1> Architecture used</h1>
  <p title=Architecture used>  
 <ul>
-<li>VGG19</li>
+<li>VGG16</li>
 <li> No. of classes: 2</li>
 <li>Classes :-  ['Cancer' , 'No Cancer']</li>
   </ul> </p>  
@@ -31,10 +31,10 @@ Visual Geometry Group, Department of Engineering Science, University of Oxford {
  <p title= Metrics for 10 Epochs in VGG16 >  
 <ul>
   
-<li>loss: 0.0531</li>  
-<li>accuracy: 0.9804</li>
-  <li>val_loss: 0.2975</li>
-<li>val_accuracy: 0.9210</li>
+<li>loss: 0.2210</li>  
+<li>accuracy: 0.9147</li>
+  <li>val_loss: 0.2489</li>
+<li>val_accuracy: 0.9104</li>
   </ul></p>  
  <br> 
  
