@@ -3,8 +3,16 @@
    <br> 
    
   <h1>Paper Referenced from:</h1>
- <h3>1. Rethinking the Inception Architecture for Computer Vision
-Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna https://arxiv.org/pdf/1512.00567v3</h3>
+ <h3>VERY DEEP CONVOLUTIONAL
+NETWORKS
+FOR
+LARGE-SCALE
+IMAGE
+RECOGNITION
+Karen Simonyan
+∗ & Andrew Zisserman
++
+Visual Geometry Group, Department of Engineering Science, University of Oxford {karen,az}@robots.ox.ac.uk   https://arxiv.org/pdf/1409.1556.pdf</h3>
   <br> 
   
    <h1> Dataset obtained from:   </h1>   
