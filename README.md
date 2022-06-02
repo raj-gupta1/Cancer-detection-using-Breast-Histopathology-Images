@@ -63,10 +63,10 @@ Visual Geometry Group, Department of Engineering Science, University of Oxford {
   <h1> Tools used</h1>
  <p title=Tools used>  
 <ul>
-<li>Pycharm</li>
+<!-- <li>Pycharm</li> -->
 <li>Google Colab</li>
-<li>git</li>
-<li>Flask</li>
+<!-- <li>git</li> -->
+<!-- <li>Flask</li> -->
 <!-- <li>Visual Studio</li> -->
 </ul> </p> 
   <br> 
