@@ -43,7 +43,7 @@ Visual Geometry Group, Department of Engineering Science, University of Oxford {
  <h1>Deployment</h1> 
 <p title=Deployment>  
 <ul>
-<li>Deployed it as a web application using Flask.</li>
+<!-- <li>Deployed it as a web application using Flask.</li> -->
 <!-- <li> I didn't add much because of github limits to storage.</li> -->
  </ul> </p> 
  <br> 
